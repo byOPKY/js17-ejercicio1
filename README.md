@@ -11,9 +11,5 @@ CONTEXTO:
 * Inicio
 * Determinar si un numero es positivo o negativo
 * ingresar el numero (num1)
-*     -Si num1 es impar, imprimir Odd! (Impar)
-      -Si num1 es par y está entre 2 y 5, imprimir Good! (Bien)
-      -Si num1 es par y está entre 6 y 20, imprimir Great! (Genial)
-      -Si num1 es par y es mayor que 20, imprimir Perfect! (Perfecto)
 * imprimir resultado
 * Final
